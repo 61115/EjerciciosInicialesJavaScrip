@@ -1,2 +1,2 @@
-# EjerciciosInicialesJavaScrip
+# MiBlogPersonalconHTML
 Created with CodeSandbox
